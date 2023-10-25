@@ -1,0 +1,25 @@
+.colo h2{
+    font-size: 50px;
+    color: #4b6;
+}
+
+
+.colo h2:hover{
+    font-size: 30px;
+    color: black;
+}
+.nav-item a{
+    color:#4b6;
+}
+.row h5{
+    color: green;
+}
+.col-md-3:hover{
+    font-size: 10px;
+
+}
+li:hover{
+    text-align: center;
+    list-style: none;
+    color: gold;
+}
